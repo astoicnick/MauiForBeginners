@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{D3BB25F6-9B54-465D-B9C3-448F9B556C68}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2B62890A-1C66-4F29-B598-AE34F353D4CE" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MauiProgram.cs">
+    <Files>
+      <File FileName="MainPage.xaml.cs" Line="8" Column="3" />
+      <File FileName="MainPage.xaml" Line="47" Column="1" />
+      <File FileName="ViewModels/MainViewModel.cs" Line="37" Column="1" />
+      <File FileName="MauiProgram.cs" Line="20" Column="43" />
+      <File FileName="DetailPage.xaml" Line="14" Column="35" />
+      <File FileName="DetailPage.xaml.cs" Line="10" Column="23" />
+      <File FileName="ViewModels/DetailViewModel.cs" Line="21" Column="10" />
+      <File FileName="AppShell.xaml" Line="1" Column="1" />
+      <File FileName="AppShell.xaml.cs" Line="9" Column="71" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MauiApp1.App" expanded="True">
+            <Node name="MauiApp1" expanded="True">
+              <Node name="ViewModels" expanded="True" />
+              <Node name="AppShell.xaml" expanded="True" />
+              <Node name="DetailPage.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MauiApp1 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2B62890A-1C66-4F29-B598-AE34F353D4CE" />
+  <MultiItemStartupConfigurations />
+</Properties>
